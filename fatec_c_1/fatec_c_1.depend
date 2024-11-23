@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709001594 source:c:\users\vitin\onedrive\ambiente de trabalho\fatec\2 semestre\linguagem de programacao\fatec_c_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
